@@ -2878,8 +2878,8 @@ textarea.w-input, textarea.w-select {
 .div-block-31.hkdsgfhd {
   justify-content: center;
   align-items: center;
-  width: 30%;
-  height: 100px;
+  width:fit-content;
+  height:fit-content;
   margin-left: auto;
   margin-right: auto;
   display: flex;
@@ -3240,7 +3240,8 @@ textarea.w-input, textarea.w-select {
   }
 
   .div-block-31.hkdsgfhd {
-    width: 60%;
+    width:fit-content;
+  height:fit-content;
   }
 
   .text-block-12 {
@@ -3629,7 +3630,8 @@ textarea.w-input, textarea.w-select {
   }
 
   .div-block-31.hkdsgfhd {
-    width: 80%;
+  width:fit-content;
+  height:fit-content;
   }
 
   .text-block-12 {
